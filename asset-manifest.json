@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FETCHING--MAIL-BOX/static/css/main.23107fdc.css",
+    "main.js": "/FETCHING--MAIL-BOX/static/js/main.4c82796c.js",
+    "static/js/453.7556692c.chunk.js": "/FETCHING--MAIL-BOX/static/js/453.7556692c.chunk.js",
+    "index.html": "/FETCHING--MAIL-BOX/index.html",
+    "main.23107fdc.css.map": "/FETCHING--MAIL-BOX/static/css/main.23107fdc.css.map",
+    "main.4c82796c.js.map": "/FETCHING--MAIL-BOX/static/js/main.4c82796c.js.map",
+    "453.7556692c.chunk.js.map": "/FETCHING--MAIL-BOX/static/js/453.7556692c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23107fdc.css",
+    "static/js/main.4c82796c.js"
+  ]
+}
